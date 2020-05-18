@@ -3,26 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://github.com/ST2020wa/posts/</loc>
+    <loc>st2020wa.github.io/posts/</loc>
+    <lastmod>2020-05-18T21:59:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>st2020wa.github.io/</loc>
+    <lastmod>2020-05-18T21:59:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>st2020wa.github.io/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2020-05-18T21:59:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>st2020wa.github.io/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</loc>
     <lastmod>2020-05-18T21:29:50+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/ST2020wa/</loc>
-    <lastmod>2020-05-18T21:29:50+08:00</lastmod>
+    <loc>st2020wa.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>https://github.com/ST2020wa/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</loc>
-    <lastmod>2020-05-18T21:29:50+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://github.com/ST2020wa/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://github.com/ST2020wa/tags/</loc>
+    <loc>st2020wa.github.io/tags/</loc>
   </url>
   
 </urlset>
